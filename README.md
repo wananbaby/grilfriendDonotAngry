@@ -1,4 +1,4 @@
-# grilfriendDonotAngry
+# grilfriendDonotAngry 添加合作者 请留言
 # 基于cv和nlp的预防女朋友生气的实时检测项目
 #### 采用android深度学习模型加麦克风检测，拍摄检测。 可快速识别出女朋友要吵架要生气的状态， 基于大数据分析，可识别出女朋友只是单纯想骂你还是生气
 
