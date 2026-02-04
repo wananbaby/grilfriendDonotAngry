@@ -1,0 +1,22 @@
+{
+    "module": "keras_hub.src.models.gemma.gemma_tokenizer",
+    "class_name": "GemmaTokenizer",
+    "config": {
+        "name": "gemma_tokenizer",
+        "trainable": true,
+        "dtype": {
+            "module": "keras",
+            "class_name": "DTypePolicy",
+            "config": {
+                "name": "int32"
+            },
+            "registered_name": null
+        },
+        "config_file": "tokenizer.json",
+        "proto": null,
+        "sequence_length": null,
+        "add_bos": false,
+        "add_eos": false
+    },
+    "registered_name": "keras_hub>GemmaTokenizer"
+}
